@@ -1,2 +1,5 @@
-[submodule "https://github.com/Jarvis-3000/git-submodules.git"]
+[submodule "src/submodules"]
+	path = src/submodules
+	url = https://github.com/Jarvis-3000/git-submodules.git
 	branch = branch2
+
